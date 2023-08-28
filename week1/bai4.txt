@@ -6,3 +6,4 @@
 thì chương trình sẽ không chạy được và báo lỗi
 * Khi gõ "java Hi @#&^%", chương trình in ra "Hi, @#&^%. How are you?"
 * Khi gõ "java Hi 1234", chương trình in ra "Hi, 1234. How are you?"
+* Khi gõ "java Hi.java Bob", chương trình in ra "Hi, Bob. How are you?"

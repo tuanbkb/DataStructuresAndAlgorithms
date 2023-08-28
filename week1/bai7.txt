@@ -1,0 +1,1 @@
+Khi biên dịch câu lệnh đó, chương trình sẽ báo lỗi ở hàm main khi chạy chương trình do thiếu tham số trên dòng lệnh "args"
