@@ -1,0 +1,1 @@
+Khi xóa hay viết sai các từ khóa như "static", "public", "void", "args", chương trình sẽ báo lỗi và không chạy được.
