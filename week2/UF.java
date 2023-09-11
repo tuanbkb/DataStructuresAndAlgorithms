@@ -2,6 +2,7 @@ package week2;
 public class UF {
     private int id[];
     private int sz[];
+    private boolean allUnion = false;
 
     public UF(int N) {
         id = new int[N];
@@ -20,10 +21,12 @@ public class UF {
         if (sz[i] < sz[j]) {
             id[i] = j;
             sz[j] += sz[i];
+            if (sz[j] == id.length) allUnion = true;
         }
         else {
             id[j] = i;
             sz[i] += sz[j];
+            if (sz[i] == id.length) allUnion = true;
         }
     }
 
@@ -37,5 +40,9 @@ public class UF {
 
     public boolean connected(int p, int q) {
         return (find(p) == find(q));
+    }
+
+    public boolean checkAllUnion() {
+        return allUnion;
     }
 }
