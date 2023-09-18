@@ -24,7 +24,7 @@ public class threeSum {
     }
 
     public static int binarySearch(int a[], int key, int i, int j, int left, int right) {
-        while (left < right) {
+        while (left <= right) {
             int mid = (left + right)/2;
 
             if (a[mid] == key) return mid;
