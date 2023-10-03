@@ -30,7 +30,7 @@ public class threeSumOptimized {
                     StdOut.println(a[i] + " " + a[low] + " " + a[high]);
                     low++;
                 }
-                if (a[low] + a[high] < a[i]) low++;
+                if (a[low] + a[high] < -a[i]) low++;
                 else high--;
             }
         }

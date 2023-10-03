@@ -1,0 +1,1 @@
+phải chạy 2 vòng lặp lồng nhau nên selection sort không phù hợp với bộ dữ liệu lớn
