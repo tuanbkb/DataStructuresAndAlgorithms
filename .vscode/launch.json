@@ -1,0 +1,294 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SegmentTreeEx",
+            "request": "launch",
+            "mainClass": "week13.SegmentTreeEx",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Dijkstra",
+            "request": "launch",
+            "mainClass": "week13.Dijkstra",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeInsertion",
+            "request": "launch",
+            "mainClass": "week10.BinaryTreeInsertion",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "RunningMedian",
+            "request": "launch",
+            "mainClass": "week11.RunningMedian",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "week11.MissingNumber",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "week11.Pairs",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HiThree",
+            "request": "launch",
+            "mainClass": "week1.HiThree",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Initials",
+            "request": "launch",
+            "mainClass": "week1.Initials",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "TenHelloWorlds",
+            "request": "launch",
+            "mainClass": "week1.TenHelloWorlds",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "UFClient1",
+            "request": "launch",
+            "mainClass": "week2.UFClient1",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "UFClient2",
+            "request": "launch",
+            "mainClass": "week2.UFClient2",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "threeSum",
+            "request": "launch",
+            "mainClass": "week2.threeSum",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "twoSum",
+            "request": "launch",
+            "mainClass": "week2.twoSum",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "ClosestNumber",
+            "request": "launch",
+            "mainClass": "week3.ClosestNumber",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "NewYearChaos",
+            "request": "launch",
+            "mainClass": "week3.NewYearChaos",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "week3.Pairs",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "SherlockAndArray",
+            "request": "launch",
+            "mainClass": "week3.SherlockAndArray",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "binarySearchExercise",
+            "request": "launch",
+            "mainClass": "week3.binarySearchExercise",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "threeSumClassSolution",
+            "request": "launch",
+            "mainClass": "week3.threeSumClassSolution",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "threeSumOptimized",
+            "request": "launch",
+            "mainClass": "week3.threeSumOptimized",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "week4.test",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBracket",
+            "request": "launch",
+            "mainClass": "week5.BalancedBracket",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "LinkedStack",
+            "request": "launch",
+            "mainClass": "week5.LinkedStack",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "QueueTwoStack",
+            "request": "launch",
+            "mainClass": "week5.QueueTwoStack",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "ResizingArrayStack",
+            "request": "launch",
+            "mainClass": "week5.ResizingArrayStack",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "week5.SelectionSort",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "StackCompare",
+            "request": "launch",
+            "mainClass": "week5.StackCompare",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "TextEditor",
+            "request": "launch",
+            "mainClass": "week5.TextEditor",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "week6.InsertionSort",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort1",
+            "request": "launch",
+            "mainClass": "week6.InsertionSort1",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "JavaSort",
+            "request": "launch",
+            "mainClass": "week6.JavaSort",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "week8.Main",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "RunningMedian",
+            "request": "launch",
+            "mainClass": "week8.RunningMedian",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "ClosestNumberWithMergeSort",
+            "request": "launch",
+            "mainClass": "week9.ClosestNumberWithMergeSort",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Gift",
+            "request": "launch",
+            "mainClass": "week9.Gift",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "JavaHashSet",
+            "request": "launch",
+            "mainClass": "week9.JavaHashSet",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "JavaMap",
+            "request": "launch",
+            "mainClass": "week9.JavaMap",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "week9.Solution",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "StartUp",
+            "request": "launch",
+            "mainClass": "week9.StartUp",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        },
+        {
+            "type": "java",
+            "name": "WhoIsInTheMiddle",
+            "request": "launch",
+            "mainClass": "week9.WhoIsInTheMiddle",
+            "projectName": "DataStructuresAndAlgorithms_3436282"
+        }
+    ]
+}
